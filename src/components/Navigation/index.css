@@ -1,0 +1,18 @@
+.nav-phone a {
+  text-decoration: none;
+  color: #ff8036;
+}
+
+.nav-phone a:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
+.navbar-nav .nav-link.active {
+  color: #ff8036;
+}
+
+.hover-dark-bg:hover {
+  /* background: linear-gradient(90deg, #162e51, rgba(22, 46, 81, 0.7)) fixed; */
+  background-color: rgba(22, 46, 81, 0.7);
+}
