@@ -4,9 +4,9 @@ This is a static page for a Real Estate Company that includes a contact form and
 
 
 ## Tech used
-React (via Vite)
-Bootstrap
-Formik
-Firebase for Hosting
-Firebase Functions 
-Sendgrid for contact form and notifications via Email
+-React (via Vite)
+-Bootstrap
+-Formik
+-Firebase for Hosting
+-Firebase Functions 
+-Sendgrid for contact form and notifications via Email
